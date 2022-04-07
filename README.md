@@ -1,5 +1,3 @@
-Filippe de Oliveira Gonçalves
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50 />
 
 ## data scientist
